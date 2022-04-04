@@ -1,1 +1,1 @@
-# movieBST-project
+# cs24_participation_activity
